@@ -6,6 +6,18 @@ no_date: true
 
 ## Publications
 
+- Rosca, E., Lashitew, A., & Kang, S. (2026). [Leading by Example: The Role of Buyers’ Employee-Focused Stakeholder Orientation in Suppliers’ Working Conditions in Global Value Chains. _Journal of Business Ethics_, 1-23.](https://www.researchgate.net/publication/406893142_Leading_by_Example_The_Role_of_Buyers'_Employee-Focused_Stakeholder_Orientation_in_Suppliers'_Working_Conditions_in_Global_Value_Chains)
+
+- Lashitew, A., & Rosca, E. (2025). [Institutionalizing social entrepreneurship in the Global South: How intermediaries work around the indigenous solidarity economy in Colombia. _Research Policy_, 54(7), 105268.](https://www.sciencedirect.com/science/article/pii/S0048733325000976)
+
+- Lashitew, A., & Mu, Y. (2025). [Corporate opposition to climate change disclosure regulation in the United States. _Climate Policy_, 25(3), 422-437.](https://doi.org/10.1080/14693062.2024.2394518)
+
+- Dumalanède, C., Ciambotti, G., & Lashitew, A. (2025). [Addressing healthcare inequality through social franchising: The role of network stewardship in impact intermediation. _Business & Society_, 64(3), 521-557.](https://doi.org/10.1177/00076503241255479)
+
+- Lashitew, A. (2023). [When businesses go digital: The role of CEO attributes in technology adoption and utilization during the COVID-19 pandemic. _Technological Forecasting and Social Change_, 189.](https://doi.org/10.1016/j.techfore.2023.122324)
+
+- Lashitew, A., Branzei, O., & van Tulder, R. (2023). [Community inclusion under systemic inequality: How for-profit businesses pursue social purpose. _Journal of Management Studies_, 61(1), 230-268.](https://doi.org/10.1111/joms.12907)
+
 - Birhanu, A. G., Getachew, Y. S., & Lashitew, A. A. (2022). [Gender Inequality in Performance During the Covid-19 Pandemic: Do Public Policy Responses Matter? _Entrepreneurship Theory & Practice_, 46(5)](https://journals.sagepub.com/doi/full/10.1177/10422587221077222)
 
 - Krammer, S., Lashitew, A. A., & Doh, J. P. (2022). [Income inequality, social cohesion, and crime against businesses: Evidence from a global sample of firms. _Journal of International Business Studies_, 1-16.](https://link.springer.com/article/10.1057/s41267-022-00535-5)
@@ -41,6 +53,18 @@ no_date: true
 - Lashitew, A. A. (2011). [Competition between food and biofuel production in Ethiopia: a partial equilibrium analysis. _Biofuels_, _2_(6), 611-627.](https://doi.org/10.4155/bfs.11.139)
 
 ## Books and Book Chapters
+
+- Surmeier, A., Littlewood, D. C., Lashitew, A. A., Nomdo, G., Bangeni, B., Behari-Leak, K., ... & Awor, P. (2026). [Promoting social innovation for the Sustainable Development Goals: the role of higher education institutions in Africa. In: *The Elgar Companion to Social Innovation and the Sustainable Development Goals* (pp. 396-417). Edward Elgar Publishing.](https://doi.org/10.4337/9781035326044.00031)
+
+ 
+
+- Lashitew, A., Methvin, T., & Surmeier, A. (2024). [How companies integrate smallholder farmers in their value chains. In: Ordu, A. & Ntungire, N. (Eds) *Foresight Africa: Top Priorities for the Continent*. Brookings Institution Press, Washington, DC.](https://www.brookings.edu/articles/how-companies-integrate-smallholder-farmers-in-their-value-chains-in-africa/)
+
+ 
+
+- Lashitew, A. (2021). [Small business green recovery fund to power U.S. climate transition. In: Gross, G. & Tomer, E. (Eds) *Blueprints to Advance Climate Change Mitigation and Resilience*. Brookings Institution, Washington, DC.](https://www.brookings.edu/research/small-business-green-recovery-fund-to-power-us-climate-transition/)
+
+ 
 
 - Lashitew, A. A., & Van Tulder, R. (2020). [Why Do Firms Choose to Fight Poverty? The Motives Behind Inclusive Business Practices in Africa. In: Muthuri et al. (Eds) Base of the Pyramid Markets in Africa: *Innovation and Challenges to Sustainability, Routledge*.](https://www.researchgate.net/profile/Addisu-Lashitew-2/publication/342244788_Why_do_firms_choose_to_fight_poverty/links/5f396365299bf13404c8816e/Why-do-firms-choose-to-fight-poverty.pdf)
 

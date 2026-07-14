@@ -6,6 +6,12 @@ no_date: true
 
 ## Blogs
 
+- Lashitew, A. & Mu, Y. (2024). [Which companies are opposed to the SEC's new climate change disclosure law?](https://www.brookings.edu/articles/which-companies-are-opposed-to-the-secs-new-climate-change-disclosure-law/) *Brookings Institution. November 2024.*
+
+- Methvin, T., Surmeier, A. & Lashitew, A. (2023). [Designing inclusive value chains to improve the livelihoods of smallholder farmers](https://www.weforum.org/stories/2023/12/smallholder-farmer-inclusive-value-chains-nandos/) *World Economic Forum. December 2023.*
+
+- Lashitew, A., Branzei, O. & van Tulder, R. (2023). [How for-profit businesses pursue social purpose](https://managementstudiesinsights.com/how-do-for-profit-businesses-pursue-social-purpose/) *Management Studies Insights. March 2023.*
+
 - [Is The Riskof Crime Against Businesses Greater In More Unequal Coun-tries? ](https://www.brookings.edu/blog/future-development/2022/08/01/is-the-risk-of-crime-against-businesses-greater-in-more-unequal-countries/) *Brookings Institution. August 2022.*
 
 - [The Coming of Age of Sustainability Disclosure: How Do Rules Differ  Between the US and the EU?](https://www.brookings.edu/blog/future-development/2022/06/06/the-coming-of-age-of-sustainability-disclosure-how-do-rules-differ-between-the-us-and-the-eu/) *Brookings Institution. June 2022.*
@@ -24,6 +30,14 @@ no_date: true
 
 
 ## Journals
+
+- Lashitew, A. (2026). [Lower tariffs on Chinese electric vehicles could boost adoption and diversify Canada's trade.](https://theconversation.com/lower-tariffs-on-chinese-electric-vehicles-could-boost-adoption-and-diversify-canadas-trade-273769) *The Conversation. January 2026.*
+
+- Lashitew, A. (2025). Ottawa's tariffs on Chinese EVs are propping up American automakers. *The Spectator. September 2025.*
+
+- Lashitew, A. (2025). [Canada's tariff wall on Chinese electric vehicles is deepening dependence on the U.S.](https://theconversation.com/canadas-tariff-wall-on-chinese-electric-vehicles-is-deepening-dependence-on-the-u-s-264868) *The Conversation. September 2025.*
+
+- [Will Ethiopia's peace deal last?](https://foreignpolicy.com/2022/12/19/tplf-abiy-ethiopia-peace-deal-last/) *Foreign Policy. December 2022.*
 
 - [How America's Activist Foreign Policy Is Failing Ethiopia.](https://www.theafricareport.com/168018/how-the-usas-activist-foreign-policy-is-failing-ethiopia/) *The Africa  Report. January 2022.*
 
@@ -48,4 +62,24 @@ no_date: true
 - [Digital Technologies Open up Vast Business Opportunities in Africa](https://african.business/2022/11/technology-information/digital-technologies-open-vast-business-opportunities-in-africa/) *Africa Business Magazine.November 2022.*
 
 - [Covid-19 Exposes Africa's Digital Divide.](https://african.business/?p=66996?utm_source=twitter&utm_medium=social&utm_campaign=editorial-content-generic) *Africa Business Magazine.  November 2020.*
+
+## Interviews and Podcasts
+
+- ["A first take of President Trump's economic policies"](https://amharic.voanews.com/a/donald-trump-economic-policy/7937600.html) *Voice of America (Amharic Program). January 2025.*
+
+- ["The role of women in the 2024 U.S. presidential election"](https://amharic.voanews.com/a/7844936.html) *Voice of America (Amharic Program). October 2024.*
+
+- ["The implications of the 2024 U.S. presidential election for developing countries"](https://amharic.voanews.com/a/analysis-second-day-of-dnc-/7752792.html) *Voice of America (Amharic Program). August 2024.*
+
+- ["How effective is Ethiopia's macroeconomic reform?"](https://www.dw.com/am/) *Deutsche Welle (Amharic). April 2024.*
+
+- ["Effectiveness of Ethiopia's new import substitution policy"](https://www.dw.com/am/) *Deutsche Welle (Amharic). March 2024.*
+
+- ["Technology adoption in Africa: Current and future use cases"](https://www.brookings.edu/blog/techtank/2022/12/12/techtank-podcast-episode-59-technology-adoption-in-africa-current-and-future-use-cases-for-development/) *TechTank Podcast, Brookings Institution. December 2022.*
+
+- ["Dispute over Ethiopia's Blue Nile dam"](https://youtu.be/IQqnoWrYap4) *New Africa Daily. July 2020.*
+
+- ["Economic and geopolitical impacts of Ethiopia's Blue Nile dam"](https://www.sbs.com.au/language/amharic/am/podcast-episode/interview-with-dr-addisu-lashitew/xbsh3hduw) *SBS Radio. June 2020.*
+
+- ["Why Ethiopia erupted over a musician's killing"](https://theworld.org/stories/2020-07-03/why-ethiopia-erupted-over-musicians-killing) *The World Radio. July 2020.*
 
