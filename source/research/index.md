@@ -6,6 +6,8 @@ no_date: true
 
 ## Publications
 
+- Lashitew, A. A., Rosca, E., Bals, L., Huang, F., & Tate, W. L. (2026). [Developing moral markets: The limits of intermediary interventions in supporting social entrepreneurship in Colombia.](https://doi.org/10.1080/08985626.2026.2734182) *Entrepreneurship & Regional Development*. Advance online publication.
+
 - Rosca, E., Lashitew, A., & Kang, S. (2026). [Leading by Example: The Role of Buyers’ Employee-Focused Stakeholder Orientation in Suppliers’ Working Conditions in Global Value Chains. _Journal of Business Ethics_, 1-23.](https://www.researchgate.net/publication/406893142_Leading_by_Example_The_Role_of_Buyers'_Employee-Focused_Stakeholder_Orientation_in_Suppliers'_Working_Conditions_in_Global_Value_Chains)
 
 - Lashitew, A., & Rosca, E. (2025). [Institutionalizing social entrepreneurship in the Global South: How intermediaries work around the indigenous solidarity economy in Colombia. _Research Policy_, 54(7), 105268.](https://www.sciencedirect.com/science/article/pii/S0048733325000976)

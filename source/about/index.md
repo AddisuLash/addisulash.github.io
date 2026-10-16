@@ -7,13 +7,11 @@ no_date: true
 ![Photo](https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg)
 
 
-[**Assistant Professor**](https://experts.mcmaster.ca/display/lashitea)
+[**Associate Professor and Canada Research Chair in Sustainable Enterprise (Tier 2)**](https://experts.mcmaster.ca/display/lashitea)
 DeGroote School of Business, McMaster University
-[lashitea@mcmaster.ca](mailto:lashitea@mcmaster.ca)
 
 [**Nonresident Fellow**](https://www.brookings.edu/experts/addisu-lashitew)
 Global Economy and Development, Brookings Institution       
-[alashitew@brookings.edu](mailto:alashitew@brookings.edu)
 
 Office: DSB Building, Room 223, 1280 Main Street West, Hamilton, ON L8S 4M4
 
