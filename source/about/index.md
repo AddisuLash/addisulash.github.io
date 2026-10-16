@@ -7,7 +7,7 @@ no_date: true
 ![Addisu Lashitew](/images/addisu-lashitew-portrait.jpg)
 
 
-[**Associate Professor and Canada Research Chair in Sustainable Enterprise (Tier 2)**](https://experts.mcmaster.ca/display/lashitea)
+[**Associate Professor and Canada Research Chair**](https://experts.mcmaster.ca/display/lashitea)
 DeGroote School of Business, McMaster University
 
 [**Nonresident Fellow**](https://www.brookings.edu/experts/addisu-lashitew)
