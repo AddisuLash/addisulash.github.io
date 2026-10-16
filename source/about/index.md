@@ -4,7 +4,7 @@ no_about: true
 no_date: true
 ---
 
-![Photo](https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg)
+![Addisu Lashitew](/images/addisu-lashitew-portrait.jpg)
 
 
 [**Associate Professor and Canada Research Chair in Sustainable Enterprise (Tier 2)**](https://experts.mcmaster.ca/display/lashitea)
