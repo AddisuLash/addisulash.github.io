@@ -24,6 +24,8 @@ no_date: true
 
 - Krammer, S., Lashitew, A. A., & Doh, J. P. (2022). [Income inequality, social cohesion, and crime against businesses: Evidence from a global sample of firms.](https://link.springer.com/article/10.1057/s41267-022-00535-5) _Journal of International Business Studies_, 1-16.
 
+- Lashitew, A. A., van Tulder, R., & Muche, L. (2022). [Social value creation in institutional voids: A business model perspective.](https://journals.sagepub.com/doi/10.1177/0007650320982283) _Business & Society_, _61_(8), 1992–2037.
+
 - Adebayo, E., Lashitew, A. A., & Werker, E. (2021). [Is conventional wisdom about resource taxation correct? Mining evidence from transparency reporting.](https://www.sciencedirect.com/science/article/pii/S0305750X21002126) _World Development_, 146, 105597.
 
 - Lashitew, A. A., Narayan, S., Rosca, E., & Bals, L. (2021). [Creating social value for the “Base of the Pyramid”: An integrative review and research agenda.](https://link.springer.com/article/10.1007/s10551-020-04710-2) _Journal of Business Ethics_, 1-22.
@@ -33,8 +35,6 @@ no_date: true
 - Lashitew, A. A., Ross, M. L., & Werker, E. (2021). [What drives successful economic diversification in resource-rich countries?](https://academic.oup.com/wbro/article/36/2/164/5813434) _The World Bank Research Observer_, 36(2), 164-196. 
 
 - Lashitew, A. A., & Werker, E. (2020). [Do natural resources help or hinder development? Resource abundance, dependence, and the role of institutions.](https://www.sciencedirect.com/science/article/abs/pii/S0928765519302362) _Resource and Energy Economics_, 61, 101183.
-
-- Lashitew, A. A., van Tulder, R., & Muche, L. (2020). [Social value creation in institutional voids: A business model perspective.](https://journals.sagepub.com/doi/10.1177/0007650320982283) _Business & Society_, 0007650320982283.
 
 - Lashitew, A. A., Bals, L., & van Tulder, R. (2020). [Inclusive business at the base of the pyramid: The role of embeddedness for enabling social innovations.](https://link.springer.com/article/10.1007/s10551-018-3995-y) _Journal of Business Ethics_, 162(2), 421-448.
 
