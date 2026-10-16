@@ -6,6 +6,14 @@ no_date: true
 
 ## Blogs
 
+- Lashitew, A., Dumalanède, C., & Ciambotti, G. (2026). [The innovative model changing how disadvantaged communities access healthcare.](https://www.weforum.org/stories/social-innovation/social-franchises-healthcare-access-south-africa-unjani/) *World Economic Forum. April 2026.*
+
+- Lashitew, A. (2026). [Lower tariffs on Chinese electric vehicles could boost adoption and diversify Canada’s trade.](https://theconversation.com/lower-tariffs-on-chinese-electric-vehicles-could-boost-adoption-and-diversify-canadas-trade-273769) *The Conversation. January 2026.*
+
+- Lashitew, A. (2025). [Ottawa’s tariffs on Chinese EVs are propping up American automakers.](https://www.thespec.com/opinion/contributors/ottawa-s-tariffs-on-chinese-evs-are-propping-up-american-automakers/article_94e0bfc0-91d4-5dc4-bff7-d26584d5ec8b.html) *The Spectator. September 2025.*
+
+- Lashitew, A. (2025). [Canada’s tariff wall on Chinese electric vehicles is deepening dependence on the U.S.](https://theconversation.com/canadas-tariff-wall-on-chinese-electric-vehicles-is-deepening-dependence-on-the-u-s-264868) *The Conversation. September 2025.*
+
 - Lashitew, A. & Mu, Y. (2024). [Which companies are opposed to the SEC's new climate change disclosure law?](https://www.brookings.edu/articles/which-companies-are-opposed-to-the-secs-new-climate-change-disclosure-law/) *Brookings Institution. November 2024.*
 
 - Methvin, T., Surmeier, A. & Lashitew, A. (2023). [Designing inclusive value chains to improve the livelihoods of smallholder farmers](https://www.weforum.org/stories/2023/12/smallholder-farmer-inclusive-value-chains-nandos/) *World Economic Forum. December 2023.*
@@ -31,11 +39,8 @@ no_date: true
 
 ## Journals
 
-- Lashitew, A. (2026). [Lower tariffs on Chinese electric vehicles could boost adoption and diversify Canada's trade.](https://theconversation.com/lower-tariffs-on-chinese-electric-vehicles-could-boost-adoption-and-diversify-canadas-trade-273769) *The Conversation. January 2026.*
 
-- Lashitew, A. (2025). Ottawa's tariffs on Chinese EVs are propping up American automakers. *The Spectator. September 2025.*
 
-- Lashitew, A. (2025). [Canada's tariff wall on Chinese electric vehicles is deepening dependence on the U.S.](https://theconversation.com/canadas-tariff-wall-on-chinese-electric-vehicles-is-deepening-dependence-on-the-u-s-264868) *The Conversation. September 2025.*
 
 - [Will Ethiopia's peace deal last?](https://foreignpolicy.com/2022/12/19/tplf-abiy-ethiopia-peace-deal-last/) *Foreign Policy. December 2022.*
 
