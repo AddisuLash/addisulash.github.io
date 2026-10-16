@@ -4,11 +4,7 @@ no_about: true
 no_date: true
 ---
 
-My research has contributed towards improving our understanding of how inclusive business practices can address socio-economic challenges in developing countries. 
+I teach Sustainability and International Business courses within the undergraduate commerce program at the DeGroote School of Business (DSB). I have also contributed to our MBA elective course on case analysis at DSB. Internationally, I have taught graduate-level courses in Research Methods at Addis Ababa University and the University of Cape Town, where I hold an Adjunct Associate Professor position.
 
-My 2019 Research Policy publication, for example, examined the role of mobile money innovations for advancing financial inclusion in Africa. The results shed light on the institutional conditions that enable the emergence of inclusive innovations. Another article, which was published in 2022 at the Journal of International Business Studies investigated the effects of income inequality on crime against businesses around the world, and how social capital moderates this relationship. These two studies provide novel evidence on the bidirectional relationship between enterprise performance and societal outcomes, with important policy implications.
-
-Finally, I have an ongoing research agenda that explore the drivers of corporate sustainability. I have published actively on the measurement and disclosure of environmental, social, and governance (ESG) issues both in academic and professional outlets. 
-
-My current research projects on this topic investigate how corporate governance and policy measures interact in shaping greenhouse gas emissions among major enterprises in North America. 
+I have extensive experience supervising both graduate and undergraduate students. If you are interested in pursuing a PhD in Strategic Management at DSB, I encourage you to review our [program website](https://phd.degroote.mcmaster.ca/) or [reach out to me directly](mailto:lashitea@mcmaster.ca) to discuss potential opportunities.
 
